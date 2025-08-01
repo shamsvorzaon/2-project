@@ -1,0 +1,57 @@
+body {
+    background-color: #28E145;
+}
+
+
+
+.website_title {
+    background-color: #001EBD;
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 20px;
+    padding: 1px 0;
+}
+
+
+.website_title>h1 {
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: white;
+}
+
+
+.svetafor_box{
+    background-color: black;
+    width: 200px;
+    padding: 69px 125px;
+    margin: 30px auto;
+    border-radius: 30px;
+}
+
+
+.svetafor_box > div{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.red{
+   border: 5px solid #28E145;
+   background-color: red;
+}
+
+.yellow{
+    margin: 20px 0;
+    border: 5px solid #28E145;
+    background-color: yellow;
+}
+
+.green{
+    border: 5px solid #28E145;
+    background-color: #28E145;
+}
